@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Rui Ribeiro</h1>
+<h3 align="center">Bachelor's Degree in Software Engineering at the University of Minho</h3>
 
-<!--
-**rui1479/rui1479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/ruiribeiroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui1479" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">📘 Languages 📙</h3>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=html,python,javascript,c,css,java,mysql,haskell,cs,cpp,matlab,vue"/><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,vscode,idea, visualstudio,github,figma,cmake,gitlab,windows,powershell"/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<h3 align="center">My Top Languages</h3>
+ <p align=center>
+    <a href="https://github.com/rui1479">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rui1479&layout=compact&include_all_commits=true&theme=github_dark" alt="Top Langs"> <br>     
+    </a><br>

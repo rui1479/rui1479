@@ -11,7 +11,7 @@
 <img src="https://skillicons.dev/icons?i=html,python,javascript,c,css,java,mysql,haskell,cs,cpp,matlab,vue"/><br>
 
 <h2 align="center">⚒️ Tools ⚒️</h2>
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,vscode,idea, visualstudio,github,figma,cmake,gitlab,windows,powershell"/>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,vscode,idea,visualstudio,github,figma,cmake,gitlab,windows,powershell"/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
